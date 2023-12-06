@@ -13,7 +13,7 @@ function Register() {
    const next = () => {
     try {
         axios
-        .post("https://basecamp-backend-production.up.railway.app/auth/login",{
+        .post("https://basecamp-backend.vercel.app/auth/login",{
             email:email,
             password:password,
         })
@@ -21,7 +21,7 @@ function Register() {
             console.log(data);
             navigate(`/home/${data.data.token}`)
         }).catch((e) => {
-            console.log(e.response.data.message);
+            console.log(e);
             setErr(e.response.data.message);
         })
     } catch (error) {

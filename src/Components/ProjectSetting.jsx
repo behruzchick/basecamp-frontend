@@ -125,7 +125,7 @@ function ProjectSetting() {
                 console.log(e);
             })
     }
-    console.log("dsewdewds",members);
+    // console.log("dsewdewds",members);
 
     const SetAdmin = (_id) => {
         console.log("member set id ",memberId);
@@ -140,7 +140,7 @@ function ProjectSetting() {
     }
     return (
         <>
-            {
+            {   
                 glError === "true" ? <h1>No access!</h1> 
                 :       <div className={'settings_wrape'}>
                 <div className="s">
