@@ -31,7 +31,7 @@ Basecamp is designed to facilitate collaborative work in teams. It offers the fo
 ### The Core Team
 This project was developed by  a team of dedicated individuals at [Qwasar SV -- Software Engineering School](https://qwasar.io). Meet the team behind Basecamp:
 - **Behruz Akbaraliev:** Project Lead / Full Stack Developer
-- **Baxodirzoda Sugdiyona:** Frontend Developer 
+- **Asadbek Baxodirzoda:** Frontend Developer 
 - **Behruz Akbaraliev 2:** Backend Developer
 We express our gratitude to the entire team for their hard work and commitment to making Basecamp a success.
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
