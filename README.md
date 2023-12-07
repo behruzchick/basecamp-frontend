@@ -12,7 +12,7 @@ Basecamp is designed to facilitate collaborative work in teams. It offers the fo
 1. Clone the Repository:
     ```bash
     git clone server: https://github.com/behruzchick/basecamp-backend/
-    git clone client: https://github.com/behruzchick/instagram-front/
+    git clone client: https://github.com/behruzchick/basecamp-frontend/
     cd basecamp
     ```
 2. Install Dependencies:
