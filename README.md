@@ -7,7 +7,6 @@ The primary goal of Basecamp is to provide a user-friendly web application for e
 Basecamp is designed to facilitate collaborative work in teams. It offers the following features:
 - **Project Creation:** Easily create projects to organize work effectively.
 - **Participant Management:** Add and remove participants, manage access rights.
-
 ## Installation
 1. Clone the Repository:
     ```bash
@@ -27,6 +26,7 @@ Basecamp is designed to facilitate collaborative work in teams. It offers the fo
     ```
 - **Server:**
     ```bash
+    npm install
     ```
 ### The Core Team
 This project was developed by  a team of dedicated individuals at [Qwasar SV -- Software Engineering School](https://qwasar.io). Meet the team behind Basecamp:
