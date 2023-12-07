@@ -29,7 +29,7 @@ Basecamp is designed to facilitate collaborative work in teams. It offers the fo
     ```bash
     ```
 ### The Core Team
-This project was developed by a team of dedicated individuals at [Qwasar SV -- Software Engineering School](https://qwasar.io). Meet the team behind Basecamp:
+This project was developed by  a team of dedicated individuals at [Qwasar SV -- Software Engineering School](https://qwasar.io). Meet the team behind Basecamp:
 - **Behruz Akbaraliev:** Project Lead / Full Stack Developer
 - **Baxodirzoda Sugdiyona:** Frontend Developer 
 - **Behruz Akbaraliev 2:** Backend Developer
