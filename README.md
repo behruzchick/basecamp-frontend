@@ -16,13 +16,13 @@ Basecamp is designed to facilitate collaborative work in teams. It offers the fo
     ```
 2. Install Dependencies:
     ```bash
-    npm install
+    npm start
     ```
 
 ## Usage
 - **Client:**
     ```bash
-    npm install
+    npm run test
     ```
 - **Server:**
     ```bash
